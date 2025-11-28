@@ -1,0 +1,82 @@
+.meet{
+    width: 1400px;
+    height: 1000px;
+    margin: auto;
+    background-color: #F4F5F6;
+
+    &__box1{
+        width: 1000px;
+        padding: 50px;
+    }
+
+    &__h1{
+        text-align: center;
+        margin-left: 250px;
+    }
+
+    &__cards{
+        display: flex;
+        gap: 100px;
+        margin-bottom: 50px;
+    }
+
+    &__card{
+        text-align: center;
+    }
+
+    &__imges{
+        width: 250px;
+        height: 300px;
+        background-color: #FFCF2D;
+        align-items: center;
+        border-radius: 15px;
+    }
+
+    &__img{
+        width: 150px;
+        height: 250px;
+        margin-top: 20px;
+    }
+
+    &__box2{
+        width: 800px;
+        margin: auto;
+    }
+
+    &__text{
+        text-align: center;
+    }
+
+
+    &__tetle{
+        width: 600px;
+        height: 200px;
+        margin: auto;
+        background-color: white;
+        border-radius: 15px;
+        text-align: center;
+
+    }
+
+    &__p{
+        /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo, amet lectus quam viverra mus lobortis fermentum amet, eu. Pulvinar eu sed purus facilisi. Vitae id turpis tempus ornare turpis quis non. Congue tortor in euismod vulputate etiam eros. Pulvinar neque pharetra arcu diam maecenas diam integer in. */
+
+        width: 500px;
+        height: 80px;
+        text-align: center;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 150%;
+        color: #424551;
+        padding: 55px;
+
+
+      
+
+    }
+
+    
+
+
+}

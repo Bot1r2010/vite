@@ -1,0 +1,36 @@
+.poste{
+    width: 1400px;
+    margin: auto;
+    background-color: white;
+
+    &__global{
+        width: 1300px;
+        margin: auto;
+        padding: 25px;
+    }
+
+    &__text{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__btn{
+        width: 159px;
+        height: 52px;
+        background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+        border: 2px solid #FF3F3A;
+        border-radius: 20px;
+        color: #FFFFFF;
+    }
+
+
+    &__cards{
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    &__card{
+        text-align: center;
+    }
+}

@@ -1,0 +1,36 @@
+.to{
+    width: 1400px;
+    margin: auto;
+    background-color: rgb(255, 154, 154);
+
+    &__box{
+        width: 500px;
+        padding: 50px;
+        margin: auto;
+        text-align: center;
+    }
+
+    &__from{
+        display: flex;
+        justify-content: space-between;
+    }
+    &__input{
+
+        width: 250px;
+        height: 40px;
+        background-color: white;
+        color: #9A9CA5;
+        border-radius: 10px;
+        text-align: center;
+
+    }
+
+    &__btn{
+        width: 154px;
+        height: 42px;
+        background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+        border: 2px solid #FF3F3A;
+        border-radius: 15px;
+        text-align: center;
+    }
+}

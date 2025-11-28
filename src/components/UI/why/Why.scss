@@ -1,0 +1,28 @@
+.why{
+    width: 1400px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+
+    &__box{
+        padding: 50px;
+        display: flex;
+        gap: 100px;
+    }
+
+    &__img{
+        width: 500px;
+        height: 500px;
+    }
+
+    &__btn{
+        width: 161px;
+        height: 44px;
+        background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+        border: 2px solid   #FF3F3A;
+        border-radius: 20px;
+        color: #FFFFFF;
+        text-align: center;
+    }
+
+    
+}

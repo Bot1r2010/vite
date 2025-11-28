@@ -1,0 +1,10 @@
+.footer{
+    width: 1400px;
+    margin: auto;
+    background-color: #1E212C;
+
+    &__box{
+        display: flex;
+        gap: 50px;
+    }
+}
